@@ -1,4 +1,4 @@
-package de.kuglix;
+package de.gbstechnikum;
 
 public interface Codec {
 
